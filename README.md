@@ -1,8 +1,9 @@
-### Hi there, I'm Baboo 👋
+### Hi there, I'm Bob aka Baboo 👋
 
-- Working as a Technical Instructor
-- Experienced AWS cloud solution architect
+- Working as a Solutions Architect
+- One of AWS Authorized Instructors (AAI) in AWS GCR
 - Developing serverless application base on event-driven architect on AWS
+- Experienced in Technical Instructor
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baboopan&count_private=true&show_icons=true&theme=onedark)](https://github.com/BabooPan?tab=repositories)
 
